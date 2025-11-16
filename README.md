@@ -47,18 +47,32 @@ Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C 
 # RC  PHASE SHIFT OSCILLATOR: 
 
 # DESIGN
+RC PHASE SHIFT OSCILLATOR
+Design RC Phase shift oscillator with frequency of oscillation f=200 Hz,assume C = 0.01 Microfarad
+
 
 # TABULATION
+![WhatsApp Image 2025-11-16 at 11 35 13_cfee4932](https://github.com/user-attachments/assets/a9206530-5d44-4b70-8897-8adc9f931f32)
+
 
 # GRAPH
+![WhatsApp Image 2025-11-16 at 11 38 30_2d5b4b6a](https://github.com/user-attachments/assets/37c43ec2-c1c5-499a-9d41-3dc8f5a4560d)
+
+
 
 # WIEN BRIDGE OSCILLATOR
 
 
 # DESIGN
+Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C = 0.1 Microfarad
 
 # TABULATION
+![WhatsApp Image 2025-11-16 at 11 37 26_222ed1a2](https://github.com/user-attachments/assets/2a2aa6b1-7f35-4431-9ca9-4f21b0b659d9)
+
 
 # GRAPH
+![WhatsApp Image 2025-11-16 at 11 39 09_350cad66](https://github.com/user-attachments/assets/d2fdc711-222e-441b-a699-0d4857c6a3ad)
+
 
 # RESULT
+     Thus the RC phase shift and wein bridge oscillators are designed and tested using op-amp ic 741.
